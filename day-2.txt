@@ -1,0 +1,58 @@
+a,b,c=10,20,30
+print(b,c,a)
+apple=100
+banana=200
+pineapple=300
+print(apple)
+print(banana)
+print(pineapple)
+print(apple,end=' ')
+print(banana,end=' ')
+print(pineapple)
+split ued to allocate value for different value
+input().split(separator,maxsplit)
+print(apple,banana,pineapple)
+x,y,z=input("enter the three value:").split('*')
+print("total number of student:",x)
+print("no of boys:",y)
+print("no of girls:",z)
+x,y,z=input("enter the three value:").split('0')
+print("total number of student:",x)
+print("no of boys:",y)
+print("no of girls:",z)
+x,y,z=input().split('0')
+print(x)
+print(y)
+print(z)
+email="latha@gmail.com"
+password=123456
+cemail=input("enter email:")
+cpassword=int(input("enter the password"))
+if (email==cemail and password==cpassword):
+    print("login successfully")
+else:
+    print("wrong password")
+a=5
+b=5.0
+if(a==b):
+    print("yes")
+else:
+    print("no")
+a=5
+b=6
+if(a==b):
+    print("yes")
+else:
+    print("no")
+iteration=more case
+in python no increment and decrement operator
+
+    
+    
+
+
+
+
+
+
+
